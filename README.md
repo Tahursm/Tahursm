@@ -144,30 +144,20 @@
 
 ---
 
-# 📊 GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tahursm&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahursm&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahursm&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahursm&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahursm&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tahursm&theme=algolia&margin-w=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Tahursm&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
