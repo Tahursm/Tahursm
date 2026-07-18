@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=TAHUR%20MAKANDAR&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38"/>
 </p>
